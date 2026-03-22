@@ -36,7 +36,7 @@ By using YouTube-related features in Rollio, you are also subject to:
 
 - We do not sell personal data.
 - Data is processed/stored with infrastructure providers required to run the service (for example authentication/database/cloud hosting providers).
-- User-enabled sharing features may send selected technique metadata for review in the app's community catalog flow.
+- User-enabled sharing features may send selected technique metadata into the app's Review Queue for possible inclusion in the Master Catalog.
 
 ## Retention and Deletion
 

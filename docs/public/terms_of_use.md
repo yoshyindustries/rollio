@@ -28,7 +28,7 @@ You agree not to:
 
 - You retain rights to content you submit.
 - You grant us the rights needed to host, process, and display your content solely to operate the service.
-- If you opt into sharing flows, selected technique metadata may be submitted for review in community catalog processes.
+- If you opt into sharing flows, selected technique metadata may be submitted into the Review Queue for possible inclusion in the Master Catalog.
 
 ## 5. Service Availability, Changes, and Discontinuation
 
